@@ -34,6 +34,7 @@ The dataset includes the following fields:
 3. **Use the interactive filters** to explore trends in bike purchases.  
 
 ## **Dashboard Preview**  
-![Bike Sales Dashboard][https://github.com/Bhumin-Patel029/Interactive-Excel-Dashboard/blob/main/Dashbaoard.png]  
+![Bike Sales Dashboard](https://github.com/Bhumin-Patel029/Interactive-Excel-Dashboard/blob/main/Dashbaoard.png)
+
 
 
